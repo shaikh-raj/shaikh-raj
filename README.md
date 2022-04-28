@@ -9,8 +9,6 @@ Check out my<a href="https://github.com/shaikh-raj/data-science-portfolio"> Data
 - <a href="https://github.com/shaikh-raj/data-science-portfolio"> **Natural Language Processing** -> <a>
 - <a href="https://github.com/shaikh-raj/data-science-portfolio"> **Statistics** -> <a>
 <br>
-<br>
-
 
 **Contacts**
 <br>
@@ -19,7 +17,6 @@ Check out my<a href="https://github.com/shaikh-raj/data-science-portfolio"> Data
 <br>
 
 <img align="left" alt="Portfolio" width="30px" src="img/bag_briefcase_icon.png"/> <a href="https://www.mathnai.com/">Portfolio</a>
-<br>
 <br>
 
 **Used Programming Languages**  
