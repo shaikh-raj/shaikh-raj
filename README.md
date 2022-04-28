@@ -3,11 +3,11 @@ I'm **Raj Shaikh**, Data Scientist with strong background in Mathematics, Statis
 
 Check out my<a href="https://github.com/shaikh-raj/data-science-portfolio"> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Blogs**, and **Videos** in the field of:
 
-- <a href="https://github.com/shaikh-raj/data-science-portfolio"> **Data Analytics** -> <a>
-- <a href="https://github.com/shaikh-raj/data-science-portfolio"> **Machine Learning** -> <a>
-- <a href="https://github.com/shaikh-raj/data-science-portfolio"> **Deep Learning** -> <a>
-- <a href="https://github.com/shaikh-raj/data-science-portfolio"> **Natural Language Processing** -> <a>
-- <a href="https://github.com/shaikh-raj/data-science-portfolio"> **Statistics** -> <a>
+- <a href="https://github.com/shaikh-raj/data-science-portfolio/tree/main/Data%20Analytics"> **Data Analytics** <a>
+- <a href="https://github.com/shaikh-raj/data-science-portfolio/tree/main/Machine%20Learning"> **Machine Learning**  <a>
+- <a href="https://github.com/shaikh-raj/data-science-portfolio/tree/main/Deep%20Learning"> **Deep Learning** <a>
+- <a href="https://github.com/shaikh-raj/data-science-portfolio/tree/main/Natural%20Language%20Processing"> **Natural Language Processing** <a>
+- <a href="https://github.com/shaikh-raj/data-science-portfolio/tree/main/Statistics"> **Statistics** <a>
 <br>
 
 **Contacts**
