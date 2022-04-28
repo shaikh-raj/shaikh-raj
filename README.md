@@ -1,4 +1,3 @@
-
 ### Hey there  <img src="img/giphy.webp" width="25px">
 I'm **Raj Shaikh**, Data Scientist with strong background in Mathematics, Statistics & Software Engineering.  Getting insights out of data is something that I really like. I am a big open source believer since I think with sharing solutions we can achieve a lot more as a community.<br>
 
@@ -12,6 +11,7 @@ Check out my<a href="https://github.com/shaikh-raj/data-science-portfolio"> Data
 <br>
 <br>
 
+
 **Contacts**
 <br>
 
@@ -20,20 +20,8 @@ Check out my<a href="https://github.com/shaikh-raj/data-science-portfolio"> Data
 
 <img align="left" alt="Portfolio" width="30px" src="img/bag_briefcase_icon.png"/> <a href="https://www.mathnai.com/">Portfolio</a>
 <br>
-
-<br>
 <br>
 
 **Used Programming Languages**  
-<br>
 <code><img height="40" src="img/python.png"></code>
 <code><img height="40" src="img/mysql.png"></code>
-
-<br>
-<br>
-
-
-
-
-
-
