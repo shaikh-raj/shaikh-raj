@@ -18,6 +18,7 @@ Check out my<a href="https://github.com/shaikh-raj/data-science-portfolio"> Data
 
 <img align="left" alt="Portfolio" width="30px" src="img/bag_briefcase_icon.png"/> <a href="https://www.mathnai.com/">Portfolio</a>
 <br>
+<br>
 
 **Used Programming Languages**  
 <code><img height="40" src="img/python.png"></code>
