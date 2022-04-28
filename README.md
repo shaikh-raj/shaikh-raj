@@ -15,7 +15,7 @@ Check out my<a href="https://github.com/shaikh-raj/data-science-portfolio"> Data
 **Contacts**
 <br>
 
-<img align="left"  width="30px" src="img/linkedin_social_icon.png"/> <a href="https://www.linkedin.com/in/shaikhraj66/">LinkedIn</a> 
+<img align="left"  width="30px" src="img/linkedin_social_icon.png"/> <a href="https://www.linkedin.com/in/shaikh-raj/">LinkedIn</a> 
 <br>
 
 <img align="left" alt="Portfolio" width="30px" src="img/bag_briefcase_icon.png"/> <a href="https://www.mathnai.com/">Portfolio</a>
