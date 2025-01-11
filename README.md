@@ -27,13 +27,40 @@ Hello! I’m a Data Scientist with a solid foundation in **Mathematics, Statisti
 ---
 
 ## Projects & Portfolio
-Check out my [**Data Science Portfolio**](https://github.com/shaikh-raj/data-science-portfolio) for detailed **Case Studies** (with **Code**, **Blogs**, and **Videos**) in:
 
-- 📊 [**Data Analytics**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Data%20Analytics)  
-- 🤖 [**Machine Learning**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Machine%20Learning)  
-- 🧠 [**Deep Learning**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Deep%20Learning)  
-- 🗣️ [**Natural Language Processing**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Natural%20Language%20Processing)  
-- 📈 [**Statistics**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Statistics)
+### 🚀 Featured Projects
+
+#### 📍 [Travel Assistant Chatbot](#)
+*Technologies: OpenAI API, PostgreSQL, DuckDuckGo API, Llama Index*  
+- Built an intelligent, multi-agent LLM chatbot to automate travel planning, including personalized itineraries, real-time booking, and weather updates.  
+- Achieved **90% accuracy** in travel-related intent recognition and integrated third-party APIs for flight and hotel bookings.  
+- **Links**: [GitHub](https://github.com/shaikh-raj/travel-assistant-chatbot) | [Article](https://learn.mathnai.com/blog/travel-assistant-chatbot/)  
+
+#### 💳 [Credit Card Approval Prediction & Explainability](#)
+*Technologies: TensorFlow, sklearn, LIME, SHAP*  
+- Developed a machine learning model using **Multilayer Perceptron (MLP)** to predict credit card approvals with **80% accuracy**.  
+- Implemented **LIME** and **SHAP** to explain model predictions, enhancing transparency and trust.  
+- **Links**: [GitHub](https://github.com/shaikh-raj/Credit-Card-Approval-Explainability) | [Article](https://learn.mathnai.com/blog/credit-card-approval-explainability/)  
+
+#### 🩺 [Optimizing Cancer Treatment with Multi-Armed Bandit](#)
+*Technologies: OpenAI Gym, Pandas*  
+- Designed a dynamic treatment allocation model to optimize cancer treatment outcomes in clinical trials.  
+- Achieved a **10% increase in success rates** using an epsilon-greedy multi-armed bandit algorithm while reducing trial costs.  
+- **Links**: [GitHub](https://github.com/shaikh-raj/Optimizing-Cancer-Treatment-with-MAB) | [Article](https://learn.mathnai.com/blog/optimizing-cancer-treatment-with-mab/)  
+
+#### ⚙️ [MLOps CI/CD Pipeline Setup](#)
+*Technologies: GitHub Actions, Docker, MLflow, DVC*  
+- Implemented a CI/CD pipeline to automate linting, testing, and deployment of a machine learning model to AWS EC2.  
+- Tracked experiments with **MLflow** and versioned datasets with **DVC** for seamless collaboration and reproducibility.  
+- **Links**: [GitHub](https://github.com/shaikh-raj/Olympic-Winner-Prediction) | [Article](https://learn.mathnai.com/blog/mlops-ci-cd-pipeline/)  
+
+### 📂 Additional Projects
+
+- 📊 [**Data Analytics**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Data%20Analytics): Advanced visualization and storytelling through data.  
+- 🤖 [**Machine Learning**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Machine%20Learning): Predictive models and optimization techniques.  
+- 🧠 [**Deep Learning**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Deep%20Learning): Neural networks and generative models.  
+- 🗣️ [**Natural Language Processing**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Natural%20Language%20Processing): Language models, NER, and sentiment analysis.  
+- 📈 [**Statistics**](https://github.com/shaikh-raj/data-science-portfolio/tree/main/Statistics): Statistical methods and hypothesis testing.  
 
 ---
 
